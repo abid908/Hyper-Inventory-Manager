@@ -12,7 +12,7 @@ It helps shop owners and warehouse personnel to efficiently track stock, manage 
 - 📊 Total Sell amount and Total Profit amount.
 - 📊 Performance Chart.
 
-### Purpose:
+###  🎯 Purpose:
 This project was created to provide a practical and efficient solution for businesses who has lack of computer and software knowledge and need an **offline** system without relying on cloud services.  
 It is lightweight, fast, and easy to use, making it ideal for local shops and warehouse operators.  
 
