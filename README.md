@@ -1,5 +1,5 @@
 # Hyper Inventory Manager by MD Shajidul Hoque – A lightweight offline inventory management system.
-Hyper Inventory by Hyper Nexus
+Hyper Inventory by MD. Shajidul Hoque
 
 Hyper Inventory is an offline inventory management software designed for small and medium-sized businesses, especially retail personnel who lack of computer of software knowledge.  
 It helps shop owners and warehouse personnel to efficiently track stock, manage stock data, and generate invoices in a simple and very user-friendly way.  
